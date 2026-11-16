@@ -1,0 +1,9 @@
+VERSÃO WHATSAPP (em TODO resumo enviado): no FINAL do corpo do email, depois de todas as seções, inclua um bloco <pre> com uma versão curta para WhatsApp, que um script no Mac recorta e envia sozinho. Regras do bloco:
+- Primeira linha exatamente: ===WHATSAPP===   Última linha exatamente: ===FIM WHATSAPP===
+- Entre elas, texto puro (sem tags HTML, sem links), no máximo 900 caracteres, linhas curtas, formatação do WhatsApp (*negrito*).
+- Primeira linha de conteúdo: *📬 Assistente <dd/mm> <manhã|meio-dia|fim de tarde>*
+- Depois, só o que exige ação, na ordem: na rodada das 7h, 📅 agenda de hoje (horário + título, no máximo 6 itens; compromissos da Luiza com 👩 e o aviso 👶 se houver); ⚠️ urgentes; ✍️ contratos para assinar (quantidade e nomes curtos); 💰 boletos pessoais (beneficiário, valor, vencimento; SEM linha digitável); ✉️ rascunhos prontos (para quem, numerados #N como no email); 🔎 a revisar (só a quantidade). Na rodada das 17h, comece com o "✅ Dia fechado" ou "Em aberto hoje: ...".
+- Se não houver nada: "Nada pendente ✅".
+- Última linha de conteúdo: "Detalhes no email."
+- NUNCA coloque no bloco tokens, códigos, senhas, links ou linhas digitáveis.
+
